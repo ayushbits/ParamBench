@@ -1,0 +1,13 @@
+Model,Accuracy,Correct_Answers,Total_Questions,Avg_Response_Time_Seconds,Avg_Tokens_Generated
+google/gemma-3-27b-it,56.41,9745,17275,3.16,50.0
+meta-llama/Llama-3.3-70B-Instruct,54.6,9432,17275,3.77,49.5
+Qwen/Qwen3-30B-A3B,48.51,8380,17275,3.39,25.77
+CohereLabs/aya-expanse-32b,46.69,8066,17275,1.46,44.02
+google/gemma-3-4b-it,40.2,6945,17275,0.85,2.73
+Qwen/Qwen3-4B-Instruct-2507,39.06,6748,17275,0.66,50.0
+meta-llama/Llama-3.1-8B-Instruct,37.42,6464,17275,1.39,50.0
+CohereForAI/aya-expanse-8b,35.34,6105,17275,1.29,44.74
+meta-llama/Llama-3.2-3B-Instruct,30.69,5301,17275,0.6,48.01
+meta-llama/Llama-3.2-1B-Instruct,29.16,5037,17275,0.36,46.66
+google/gemma-3-1b-it,24.38,4212,17275,0.94,50.0
+Qwen/Qwen2.5-3B-Instruct,23.15,4000,17275,0.62,50.0

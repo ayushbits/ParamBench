@@ -1,0 +1,7 @@
+Question_Type,meta-llama/Llama-3.2-1B-Instruct,Qwen/Qwen2.5-3B-Instruct,meta-llama/Llama-3.3-70B-Instruct,meta-llama/Llama-3.1-8B-Instruct,google/gemma-3-27b-it,Qwen/Qwen3-30B-A3B,google/gemma-3-4b-it,CohereForAI/aya-expanse-8b,Qwen/Qwen3-4B-Instruct-2507,meta-llama/Llama-3.2-3B-Instruct,google/gemma-3-1b-it,CohereLabs/aya-expanse-32b
+Assertion and Reason,34.4,20.6,61.8,39.2,60.5,47.2,46.5,40.6,49.7,37.6,39.1,54.4
+Fill in the Blank,19.6,15.2,54.3,39.1,58.7,54.3,52.2,37.0,45.7,23.9,19.6,43.5
+Identify the Incorrect Statement,23.0,16.7,45.7,29.6,60.4,53.6,42.9,29.1,38.0,24.7,18.3,48.8
+Match the List,25.0,23.6,41.9,26.2,52.7,45.5,28.2,25.8,35.5,28.6,22.2,29.3
+Normal MCQ,30.2,24.3,57.8,41.0,56.6,48.7,41.9,37.7,38.3,31.1,23.1,50.1
+Sequence / Ordering,27.1,24.0,49.0,31.8,50.1,47.9,32.9,31.2,36.6,26.6,24.1,33.5
