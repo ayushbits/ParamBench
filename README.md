@@ -48,6 +48,20 @@ The benchmark covers 21 subjects including but not limited to:
 - Indian Culture
 - And more...
 
+## 🏗️ Repository Structure
+
+```
+ParamBench/
+├── data/
+│   └── full-data.csv          # Main dataset file
+├── checkpoints/                    # Model evaluation checkpoints
+├── results/                        # Analysis results and visualizations
+├── benchmark_script.py             # Main benchmarking script
+├── analysis_models.py              # Analysis and visualization script
+├── requirements.txt                # Python dependencies
+└── README.md                       # This file
+```
+
 ## 🚀 Quick Start
 
 ### Requirements
@@ -87,56 +101,6 @@ group_to_run = "small"  # Options: "small", "medium", "large", or "all"
 batch_size = 16         # Adjust based on GPU memory
 ```
 
-## 📈 Evaluation Metrics
-
-The benchmark provides comprehensive evaluation metrics:
-
-### Overall Metrics
-- **Accuracy**: Overall percentage of correct answers
-- **Response Time**: Average time per question
-- **Token Usage**: Average tokens generated per response
-
-### Detailed Analysis
-- **Subject-wise Accuracy**: Performance breakdown by subject
-- **Question Type Analysis**: Performance by question type
-- **Model Size Comparison**: Performance across different model sizes
-
-## 🏗️ Repository Structure
-
-```
-ParamBench/
-├── data/
-│   └── full-data.csv          # Main dataset file
-├── checkpoints/                    # Model evaluation checkpoints
-├── results/                        # Analysis results and visualizations
-├── benchmark_script.py             # Main benchmarking script
-├── analysis_models.py              # Analysis and visualization script
-├── requirements.txt                # Python dependencies
-└── README.md                       # This file
-```
-
-## 🤖 Supported Models
-
-The benchmark supports evaluation of various model families:
-
-### Small Models (< 5B parameters)
-- Bharatgenai/Param-1-2.9B-Instruct
-- Meta-llama/Llama-3.2-1B-Instruct
-- Sarvamai/sarvam-1
-- Google/gemma-3-1b-it
-- And more...
-
-### Medium Models (5B-30B parameters)
-- Mistralai/Mistral-Small-3.1-24B-Instruct
-- Meta-llama/Llama-3.1-8B-Instruct
-- Google/gemma-3-27b-it
-- And more...
-
-### Large Models (30B+ parameters)
-- Meta-llama/Llama-3.3-70B-Instruct
-- Qwen/Qwen3-30B-A3B
-- CohereLabs/aya-expanse-32b
-- And more...
 
 ## 📊 Running Analysis
 
