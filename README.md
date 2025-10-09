@@ -3,7 +3,7 @@
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+[![arXiv](https://img.shields.io/badge/arXiv-2508.16185-f9f107.svg)](https://arxiv.org/pdf/2508.16185)
 </div>
 
 ## 📋 Overview
@@ -13,7 +13,6 @@ ParamBench is a comprehensive graduate-level benchmark in Hindi designed to eval
 This benchmark is specifically designed to:
 - Assess LLM performance on culturally and linguistically diverse content
 - Evaluate understanding of India-specific knowledge domains
-- Provide a standardized evaluation framework for Indic language models
 - Support the development of more culturally aware AI systems
 
 ## 🎯 Key Features
@@ -35,7 +34,7 @@ Each question in the dataset includes:
 - `subject`: Subject category
 - `exam_name`: Source examination
 - `paper_number`: Paper/section identifier
-- `question_type`: Type of question (MCQ, Blank-filling, assertion/reasong, etc.)
+- `question_type`: Type of question (MCQ, Blank-filling, assertion/reasoning, etc.)
 
 ### Subject Distribution
 The benchmark covers 21 subjects including but not limited to:
@@ -47,6 +46,9 @@ The benchmark covers 21 subjects including but not limited to:
 - Current Affairs
 - Indian Culture
 - And more...
+
+<img width="682" height="395" alt="image" src="https://github.com/user-attachments/assets/65a7350f-26c1-46de-9c3a-d2828296ddca" />
+
 
 ## 🏗️ Repository Structure
 
@@ -112,7 +114,6 @@ python analysis_models.py
 
 This will generate:
 - Model performance summary CSV
-- Interactive visualizations (HTML/SVG)
 - Subject-wise accuracy charts
 - Question type analysis
 - Combined report with all metrics
