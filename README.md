@@ -1,4 +1,3 @@
-# ParamBench: A Graduate-Level Benchmark for Evaluating LLM Understanding on Indic Subjects
 
 <div align="center">
 
@@ -6,6 +5,11 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2508.16185-f9f107.svg)](https://arxiv.org/pdf/2508.16185)
 [![huggingface](https://img.shields.io/badge/Hugging%20Face-Dataset-orange)](https://huggingface.co/datasets/bharatgenai/ParamBench)
 </div>
+
+## ParamBench: A Graduate-Level Benchmark for Evaluating LLM Understanding on Indic Subjects
+
+> [ParamBench: A Graduate-Level Benchmark for Evaluating LLM Understanding on Indic Subjects](https://arxiv.org/abs/2508.16185)                                                   
+> Ayush Maheshwari, Kaushal Sharma, Vivek Patel, Aditya Maheshwari  
 
 
 ## 📋 Overview
@@ -127,8 +131,13 @@ This will generate:
 - Question type analysis
 - Combined report with all metrics
 
-## 🔗 Links
+## Citation
 
-- [Paper](https://arxiv.org/abs/2508.16185)
-
----
+```bibtex
+@article{maheshwari2025parambench,
+  title={ParamBench: A Graduate-Level Benchmark for Evaluating LLM Understanding on Indic Subjects},
+  author={Maheshwari, Ayush and Sharma, Kaushal and Patel, Vivek and Maheshwari, Aditya},
+  journal={arXiv preprint arXiv:2508.16185},
+  year={2025}
+}
+```
