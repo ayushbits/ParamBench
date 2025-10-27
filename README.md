@@ -4,7 +4,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![arXiv](https://img.shields.io/badge/arXiv-2508.16185-f9f107.svg)](https://arxiv.org/pdf/2508.16185)
+[![huggingface](https://img.shields.io/badge/Hugging%20Face-Dataset-orange)](https://huggingface.co/datasets/bharatgenai/ParamBench)
 </div>
+
 
 ## 📋 Overview
 
@@ -14,6 +16,13 @@ This benchmark is specifically designed to:
 - Assess LLM performance on culturally and linguistically diverse content
 - Evaluate understanding of India-specific knowledge domains
 - Support the development of more culturally aware AI systems
+
+## On Huggingface 🤗 🚀
+
+We're excited to announce that the **ParamBench** dataset is now publicly available on the Hugging Face Hub!
+
+You can find the dataset here: 
+**[https://huggingface.co/datasets/bharatgenai/ParamBench](https://huggingface.co/datasets/bharatgenai/ParamBench)**
 
 ## 🎯 Key Features
 
